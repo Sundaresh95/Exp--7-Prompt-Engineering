@@ -22,26 +22,26 @@ https://images.template.net/292657/Product-Launch-Poster-Template-edit-online.jp
 
 ### i)Objects/Subject
 ### ii)Background
-iii)Lighting
-iv)Style
-v)Color combinations
-vi)Camera Quality
+### iii)Lighting
+### iv)Style
+### v)Color combinations
+### vi)Camera Quality
 Create prompts for image generation tools.
 Generate refined outputs using prompt engineering techniques.
 Compare generated images with the original image.
 
-AI tools that can be used:
-ChatGPT Image Generation
-Gemini
-Bing Image Creator
-Leonardo AI
-Canva AI
-Midjourney
+## AI tools that can be used:
+1. ChatGPT Image Generation
+2. Gemini
+3. Bing Image Creator
+4. Leonardo AI
+5. Canva AI
+6. Midjourney
 
-Algorithm:
-Step 1: Select the Reference Image
+# Algorithm:
+### Step 1: Select the Reference Image
 Choose or use the provided image for reproduction.
-Step 2: Analyze the Image
+### Step 2: Analyze the Image
 Identify major components and visual details.
 Step 3: Create Initial Prompt
 Write a basic text-to-image prompt.
