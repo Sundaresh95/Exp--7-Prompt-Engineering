@@ -18,10 +18,10 @@ https://www.wechasethecolor.com/wp-content/uploads/2025/04/butterfly-coloring-pa
 https://images.template.net/292657/Product-Launch-Poster-Template-edit-online.jpg
 
 
-Identify important visual elements such as:
+## Identify important visual elements such as:
 
-i)Objects/Subject
-ii)Background
+### i)Objects/Subject
+### ii)Background
 iii)Lighting
 iv)Style
 v)Color combinations
